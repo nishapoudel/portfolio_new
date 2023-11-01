@@ -183,7 +183,7 @@ function Home() {
                  <Button
               navIcon= { <  GrServices/> } info="Service"  >
                       </Button>
-                      <a  className={click ? "mob-menu active" : "mob-menu"}>Service</a>
+                      <a  className={click ? "mob-menu active" : "mob-menu"}>ervice</a>
               </Link>
                   </li>
 
